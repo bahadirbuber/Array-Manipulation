@@ -1,0 +1,3 @@
+/home/haurogh/Desktop/samm/proje/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/haurogh/Desktop/samm/proje/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/haurogh/Desktop/samm/proje/cmake-build-debug/CMakeFiles/proje.dir
